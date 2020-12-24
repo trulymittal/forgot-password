@@ -20,7 +20,7 @@ Step 2: cd into the cloned repo and run:
 npm install
 ```
 
-Step 9: Start the demo by
+Step 3: Start the demo by
 
 ```bash
 npm run dev
